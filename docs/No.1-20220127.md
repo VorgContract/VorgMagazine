@@ -1,4 +1,4 @@
-<h1 align="left"><img src="https://avatars.githubusercontent.com/u/95163760?v=4" style="width:4%;"></img>VORG Open Source Magazine No. 1</h1>
+<h1 align="left"><img src="https://avatars.githubusercontent.com/u/95163760?v=4" style="width:6%;"></img>VORG Open Source Magazine No. 1</h1>
 
 ## [wavefunctioncollapse](https://github.com/marian42/wavefunctioncollapse)
 
