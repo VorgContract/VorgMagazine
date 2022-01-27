@@ -1,5 +1,17 @@
 <h1 align="left"><img src="https://avatars.githubusercontent.com/u/95163760?v=4" style="width:6%;"></img>VORG Open Source Magazine No. 1</h1>
 
+## [AnimeGANv2](https://github.com/TachibanaYoshino/AnimeGANv2)
+
+<span><strong><i class="fa fa-star">Star 3.4k</i> <i class="fa fa-eye">Watch 51</i> <i class="fa fa-code-fork">Fork 452</i></strong>    </span>
+
+The improved version of AnimeGAN. Landscape photos/videos to anime.
+
+[Free trial](https://huggingface.co/spaces/akhaliq/AnimeGANv2)
+
+<p align="center"><img src='https://github.com/VorgContract/VorgMagazine/blob/master/assets/No.1/AnimeGANv2.gif?raw=true' style="max-width:80%; max-height=80%;"></img></p>
+
+
+
 ## [wavefunctioncollapse](https://github.com/marian42/wavefunctioncollapse)
 
 <span><strong><i class="fa fa-star">Star 3.5k</i> <i class="fa fa-eye">Watch 164</i> <i class="fa fa-code-fork">Fork 404</i></strong>    </span>
@@ -7,57 +19,6 @@
 An infinite, procedurally generated city, assembled out of blocks using the Wave Function Collapse algorithm with backtracking. There are houses, stairs, trees, and passages connecting houses in the city. You can move, jump, and fly freely in the city, but no matter how you move, you can't reach the end, because the city will extend infinitely.
 
 <p align="center"><img src='https://github.com/VorgContract/VorgMagazine/blob/master/assets/No.1/wavefunctioncollapse.gif?raw=true' style="max-width:80%; max-height=80%;"></img></p>
-
-
-
-## [ppsspp](https://github.com/hrydgard/ppsspp)
-
-<span><strong><i class="fa fa-star">Star 6.9k</i> <i class="fa fa-eye">Watch 477</i> <i class="fa fa-code-fork">Fork 1.7k</i></strong>    </span>
-
-A PSP emulator for Android, Windows, Mac and Linux, written in C++.
-
-[Download](https://ppsspp.org/index-cn.html)
-
-<p align="center"><img src='https://github.com/VorgContract/VorgMagazine/blob/master/assets/No.1/ppsspp.jpeg?raw=true' style="max-width:80%; max-height=80%;"></img></p>
-
-
-
-## [leocad](https://github.com/leozide/leocad)
-
-<span><strong><i class="fa fa-star">Star 1.9k</i> <i class="fa fa-eye">Watch 69</i> <i class="fa fa-code-fork">Fork 161</i></strong>    </span>
-
-LeoCAD is a CAD program for creating virtual LEGO(R) models. It's available for free under the GNU Public License v2 and works on the Windows, Linux and macOS Operating Systems.
-
-<p align="center"><img src='https://github.com/VorgContract/VorgMagazine/blob/master/assets/No.1/voyager.png?raw=true' style="max-width:80%; max-height=80%;"></img></p>
-
-
-
-## [csshake](https://github.com/elrumordelaluz/csshake)
-
-<span><strong><i class="fa fa-star">Star 4.6k</i> <i class="fa fa-eye">Watch 120</i> <i class="fa fa-code-fork">Fork 630</i></strong>    </span>
-
-CSS classes to move your DOM!
-
-<p align="center"><img src='https://github.com/VorgContract/VorgMagazine/blob/master/assets/No.1/csshake.gif?raw=true' style="max-width:80%; max-height=80%;"></img></p>
-
-
-
-## [croc](https://github.com/schollz/croc)
-
-<span><strong><i class="fa fa-star">Star 18.3k</i> <i class="fa fa-eye">Watch 230</i> <i class="fa fa-code-fork">Fork 802</i></strong>    </span>
-
-`croc` is a tool that allows any two computers to simply and securely transfer files and folders. AFAIK, *croc* is the only CLI file-transfer tool that does **all** of the following:
-
-- allows **any two computers** to transfer data (using a relay)
-- provides **end-to-end encryption** (using PAKE)
-- enables easy **cross-platform** transfers (Windows, Linux, Mac)
-- allows **multiple file** transfers
-- allows **resuming transfers** that are interrupted
-- local server or port-forwarding **not needed**
-- **ipv6-first** with ipv4 fallback
-- can **use proxy**, like tor
-
-<p align="center"><img src='https://github.com/VorgContract/VorgMagazine/blob/master/assets/No.1/croc.gif?raw=true' style="max-width:80%; max-height=80%;"></img></p>
 
 
 
@@ -97,6 +58,57 @@ ColorFu is where people can use words, colors, patterns and images to make uniqu
 PM2 is a production process manager for Node.js applications with a built-in load balancer. It allows you to keep applications alive forever, to reload them without downtime and to facilitate common system admin tasks.
 
 <p align="center"><img src='https://github.com/VorgContract/VorgMagazine/blob/master/assets/No.1/pm2-ls-v2.png?raw=true' style="max-width:80%; max-height=80%;"></img></p>
+
+
+
+## [croc](https://github.com/schollz/croc)
+
+<span><strong><i class="fa fa-star">Star 18.3k</i> <i class="fa fa-eye">Watch 230</i> <i class="fa fa-code-fork">Fork 802</i></strong>    </span>
+
+`croc` is a tool that allows any two computers to simply and securely transfer files and folders. AFAIK, *croc* is the only CLI file-transfer tool that does **all** of the following:
+
+- allows **any two computers** to transfer data (using a relay)
+- provides **end-to-end encryption** (using PAKE)
+- enables easy **cross-platform** transfers (Windows, Linux, Mac)
+- allows **multiple file** transfers
+- allows **resuming transfers** that are interrupted
+- local server or port-forwarding **not needed**
+- **ipv6-first** with ipv4 fallback
+- can **use proxy**, like tor
+
+<p align="center"><img src='https://github.com/VorgContract/VorgMagazine/blob/master/assets/No.1/croc.gif?raw=true' style="max-width:80%; max-height=80%;"></img></p>
+
+
+
+## [csshake](https://github.com/elrumordelaluz/csshake)
+
+<span><strong><i class="fa fa-star">Star 4.6k</i> <i class="fa fa-eye">Watch 120</i> <i class="fa fa-code-fork">Fork 630</i></strong>    </span>
+
+CSS classes to move your DOM!
+
+<p align="center"><img src='https://github.com/VorgContract/VorgMagazine/blob/master/assets/No.1/csshake.gif?raw=true' style="max-width:80%; max-height=80%;"></img></p>
+
+
+
+## [ppsspp](https://github.com/hrydgard/ppsspp)
+
+<span><strong><i class="fa fa-star">Star 6.9k</i> <i class="fa fa-eye">Watch 477</i> <i class="fa fa-code-fork">Fork 1.7k</i></strong>    </span>
+
+A PSP emulator for Android, Windows, Mac and Linux, written in C++.
+
+[Download](https://ppsspp.org/index-cn.html)
+
+<p align="center"><img src='https://github.com/VorgContract/VorgMagazine/blob/master/assets/No.1/ppsspp.jpeg?raw=true' style="max-width:80%; max-height=80%;"></img></p>
+
+
+
+## [leocad](https://github.com/leozide/leocad)
+
+<span><strong><i class="fa fa-star">Star 1.9k</i> <i class="fa fa-eye">Watch 69</i> <i class="fa fa-code-fork">Fork 161</i></strong>    </span>
+
+LeoCAD is a CAD program for creating virtual LEGO(R) models. It's available for free under the GNU Public License v2 and works on the Windows, Linux and macOS Operating Systems.
+
+<p align="center"><img src='https://github.com/VorgContract/VorgMagazine/blob/master/assets/No.1/voyager.png?raw=true' style="max-width:80%; max-height=80%;"></img></p>
 
 
 
@@ -222,18 +234,6 @@ Howdy provides Windows Hello™ style authentication for Linux. Use your built-i
 A powerful Flutter chart library, currently supporting Line Chart, Bar Chart, Pie Chart, Scatter Chart and Radar Chart.
 
 <p align="center"><img src='https://github.com/VorgContract/VorgMagazine/blob/master/assets/No.1/fl_chart.png?raw=true' style="max-width:80%; max-height=80%;"></img></p>
-
-
-
-## [AnimeGANv2](https://github.com/TachibanaYoshino/AnimeGANv2)
-
-<span><strong><i class="fa fa-star">Star 3.4k</i> <i class="fa fa-eye">Watch 51</i> <i class="fa fa-code-fork">Fork 452</i></strong>    </span>
-
-The improved version of AnimeGAN. Landscape photos/videos to anime.
-
-[Free trial](https://huggingface.co/spaces/akhaliq/AnimeGANv2)
-
-<p align="center"><img src='https://github.com/VorgContract/VorgMagazine/blob/master/assets/No.1/AnimeGANv2.gif?raw=true' style="max-width:80%; max-height=80%;"></img></p>
 
 
 
