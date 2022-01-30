@@ -167,30 +167,32 @@ PyWebIO provides a series of imperative functions to obtain user input and outpu
 
 Pottery is a Pythonic way to access Redis. If you know how to use Python dicts, then you already know how to use Pottery. Pottery is useful for accessing Redis more easily, and also for implementing microservice resilience patterns; and it has been battle tested in production at scale.
 
-```
->>> from pottery import RedisSet
->>> basket = RedisSet({'apple', 'orange', 'apple', 'pear', 'orange', 'banana'}, redis=redis, key='basket')
->>> sorted(basket)
+<code>
+
+\>\>\> from pottery import RedisSet
+\>\>\> basket = RedisSet({'apple', 'orange', 'apple', 'pear', 'orange', 'banana'}, redis=redis, key='basket')
+\>\>\> sorted(basket)
 ['apple', 'banana', 'orange', 'pear']
->>> 'orange' in basket
+\>\>\> 'orange' in basket
 True
->>> 'crabgrass' in basket
+\>\>\> 'crabgrass' in basket
 False
 
->>> a = RedisSet('abracadabra', redis=redis, key='magic')
->>> b = set('alacazam')
->>> sorted(a)
+\>\>\> a = RedisSet('abracadabra', redis=redis, key='magic')
+\>\>\> b = set('alacazam')
+\>\>\> sorted(a)
 ['a', 'b', 'c', 'd', 'r']
->>> sorted(a - b)
+\>\>\> sorted(a - b)
 ['b', 'd', 'r']
->>> sorted(a | b)
+\>\>\> sorted(a | b)
 ['a', 'b', 'c', 'd', 'l', 'm', 'r', 'z']
->>> sorted(a & b)
+\>\>\> sorted(a & b)
 ['a', 'c']
->>> sorted(a ^ b)
+\>\>\> sorted(a ^ b)
 ['b', 'd', 'l', 'm', 'r', 'z']
->>>
-```
+\>\>\>
+
+</code>
 
 [Back to Top](#Contact)
 <br><br>
@@ -218,7 +220,8 @@ A simple web application to be used as an ssh client to connect to your ssh serv
 
 The Django Debug Toolbar is a configurable set of panels that display various debug information about the current request/response and when clicked, display more details about the panel's content.
 
-```
+<code>
+
 Step 1.
 pip install django-debug-toolbar
 Step 2.
@@ -226,37 +229,39 @@ TEMPLATES = [
     {
         "BACKEND": "django.template.backends.django.DjangoTemplates",
         "APP_DIRS": True,
-        # ...
+        #...
     }
 ]
 Step 3.
 INSTALLED_APPS = [
-    # ...
+   #...
     "debug_toolbar",
     "django.contrib.staticfiles",
-    # ...
+    #...
+
 ]
 Step 4.
 import debug_toolbar
 from django.urls import include, path
 
 urlpatterns = [
-    # ...
+   #...
     path('__debug__/', include(debug_toolbar.urls)),
 ]
 Step 5. 
 MIDDLEWARE = [
-    # ...
+   #...
     "debug_toolbar.middleware.DebugToolbarMiddleware",
-    # ...
+   #...
 ]
 Step 6. 
 INTERNAL_IPS = [
-    # ...
+   #...
     "127.0.0.1",
-    # ...
+   #...
 ]
-```
+
+</code>
 
 <p align="center"><img src='https://github.com/VorgContract/VorgMagazine/blob/master/assets/No.1/django-debug-toolbar.png?raw=true' style="max-width:80%; max-height=80%;"></img></p>
 
