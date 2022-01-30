@@ -5,11 +5,11 @@
 <h2 id="Contact">Contact</h2>
 
 Official Twitter: [VORGDAO](https://twitter.com/VORGDAO).
-<br>
+<br><br>
 
 
 
-## [AnimeGANv2](https://github.com/TachibanaYoshino/AnimeGANv2)
+### [AnimeGANv2](https://github.com/TachibanaYoshino/AnimeGANv2)
 
 <span><strong><i class="fa fa-star">Star 3.4k</i> <i class="fa fa-eye">Watch 51</i> <i class="fa fa-code-fork">Fork 452</i></strong>    </span>
 
@@ -20,11 +20,11 @@ The improved version of AnimeGAN. Landscape photos/videos to anime.
 <p align="center"><img src='https://github.com/VorgContract/VorgMagazine/blob/master/assets/No.1/AnimeGANv2.gif?raw=true' style="max-width:80%; max-height=80%;"></img></p>
 
 [Back to Top](#Contact)
-<br>
+<br><br>
 
 
 
-## [wavefunctioncollapse](https://github.com/marian42/wavefunctioncollapse)
+### [wavefunctioncollapse](https://github.com/marian42/wavefunctioncollapse)
 
 <span><strong><i class="fa fa-star">Star 3.5k</i> <i class="fa fa-eye">Watch 164</i> <i class="fa fa-code-fork">Fork 404</i></strong>    </span>
 
@@ -33,11 +33,11 @@ An infinite, procedurally generated city, assembled out of blocks using the Wave
 <p align="center"><img src='https://github.com/VorgContract/VorgMagazine/blob/master/assets/No.1/wavefunctioncollapse.gif?raw=true' style="max-width:80%; max-height=80%;"></img></p>
 
 [Back to Top](#Contact)
-<br>
+<br><br>
 
 
 
-## [vue-color-avatar](https://github.com/Codennnn/vue-color-avatar)
+### [vue-color-avatar](https://github.com/Codennnn/vue-color-avatar)
 
 <span><strong><i class="fa fa-star">Star 1.1k</i> <i class="fa fa-eye">Watch 6</i> <i class="fa fa-code-fork">Fork 138</i></strong>    </span>
 
@@ -53,11 +53,11 @@ Features you might be interested in:
 <p align="center"><img src='https://github.com/VorgContract/VorgMagazine/blob/master/assets/No.1/social-preview-1.png?raw=true' style="max-width:80%; max-height=80%;"></img></p>
 
 [Back to Top](#Contact)
-<br>
+<br><br>
 
 
 
-## [colorfu](https://github.com/pearmini/colorfu)
+### [colorfu](https://github.com/pearmini/colorfu)
 
 <span><strong><i class="fa fa-star">Star 246</i> <i class="fa fa-eye">Watch 2</i> <i class="fa fa-code-fork">Fork 32</i></strong>    </span>
 
@@ -68,11 +68,11 @@ ColorFu is where people can use words, colors, patterns and images to make uniqu
 <p align="center"><img src='https://github.com/VorgContract/VorgMagazine/blob/master/assets/No.1/colorfu.png?raw=true' style="max-width:80%; max-height=80%;"></img></p>
 
 [Back to Top](#Contact)
-<br>
+<br><br>
 
 
 
-## [pm2](https://github.com/Unitech/pm2)
+### [pm2](https://github.com/Unitech/pm2)
 
 <span><strong><i class="fa fa-star">Star 36.4k</i> <i class="fa fa-eye">Watch 667</i> <i class="fa fa-code-fork">Fork 2.4k</i></strong>    </span>
 
@@ -81,11 +81,11 @@ PM2 is a production process manager for Node.js applications with a built-in loa
 <p align="center"><img src='https://github.com/VorgContract/VorgMagazine/blob/master/assets/No.1/pm2-ls-v2.png?raw=true' style="max-width:80%; max-height=80%;"></img></p>
 
 [Back to Top](#Contact)
-<br>
+<br><br>
 
 
 
-## [croc](https://github.com/schollz/croc)
+### [croc](https://github.com/schollz/croc)
 
 <span><strong><i class="fa fa-star">Star 18.3k</i> <i class="fa fa-eye">Watch 230</i> <i class="fa fa-code-fork">Fork 802</i></strong>    </span>
 
@@ -103,11 +103,11 @@ PM2 is a production process manager for Node.js applications with a built-in loa
 <p align="center"><img src='https://github.com/VorgContract/VorgMagazine/blob/master/assets/No.1/croc.gif?raw=true' style="max-width:80%; max-height=80%;"></img></p>
 
 [Back to Top](#Contact)
-<br>
+<br><br>
 
 
 
-## [csshake](https://github.com/elrumordelaluz/csshake)
+### [csshake](https://github.com/elrumordelaluz/csshake)
 
 <span><strong><i class="fa fa-star">Star 4.6k</i> <i class="fa fa-eye">Watch 120</i> <i class="fa fa-code-fork">Fork 630</i></strong>    </span>
 
@@ -116,11 +116,11 @@ CSS classes to move your DOM!
 <p align="center"><img src='https://github.com/VorgContract/VorgMagazine/blob/master/assets/No.1/csshake.gif?raw=true' style="max-width:80%; max-height=80%;"></img></p>
 
 [Back to Top](#Contact)
-<br>
+<br><br>
 
 
 
-## [ppsspp](https://github.com/hrydgard/ppsspp)
+### [ppsspp](https://github.com/hrydgard/ppsspp)
 
 <span><strong><i class="fa fa-star">Star 6.9k</i> <i class="fa fa-eye">Watch 477</i> <i class="fa fa-code-fork">Fork 1.7k</i></strong>    </span>
 
@@ -131,11 +131,11 @@ A PSP emulator for Android, Windows, Mac and Linux, written in C++.
 <p align="center"><img src='https://github.com/VorgContract/VorgMagazine/blob/master/assets/No.1/ppsspp.jpeg?raw=true' style="max-width:80%; max-height=80%;"></img></p>
 
 [Back to Top](#Contact)
-<br>
+<br><br>
 
 
 
-## [leocad](https://github.com/leozide/leocad)
+### [leocad](https://github.com/leozide/leocad)
 
 <span><strong><i class="fa fa-star">Star 1.9k</i> <i class="fa fa-eye">Watch 69</i> <i class="fa fa-code-fork">Fork 161</i></strong>    </span>
 
@@ -144,11 +144,11 @@ LeoCAD is a CAD program for creating virtual LEGO(R) models. It's available for 
 <p align="center"><img src='https://github.com/VorgContract/VorgMagazine/blob/master/assets/No.1/voyager.png?raw=true' style="max-width:80%; max-height=80%;"></img></p>
 
 [Back to Top](#Contact)
-<br>
+<br><br>
 
 
 
-## [PyWebIO](https://github.com/pywebio/PyWebIO)
+### [PyWebIO](https://github.com/pywebio/PyWebIO)
 
 <span><strong><i class="fa fa-star">Star 2.6k</i> <i class="fa fa-eye">Watch 41</i> <i class="fa fa-code-fork">Fork 216</i></strong>    </span>
 
@@ -157,11 +157,11 @@ PyWebIO provides a series of imperative functions to obtain user input and outpu
 <p align="center"><img src='https://github.com/VorgContract/VorgMagazine/blob/master/assets/No.1/output_demo.gif?raw=true' style="max-width:80%; max-height=80%;"></img></p>
 
 [Back to Top](#Contact)
-<br>
+<br><br>
 
 
 
-## [pottery](https://github.com/brainix/pottery)
+### [pottery](https://github.com/brainix/pottery)
 
 <span><strong><i class="fa fa-star">Star 611</i> <i class="fa fa-eye">Watch 11</i> <i class="fa fa-code-fork">Fork 23</i></strong>    </span>
 
@@ -193,11 +193,11 @@ False
 ```
 
 [Back to Top](#Contact)
-<br>
+<br><br>
 
 
 
-## [webssh](https://github.com/huashengdun/webssh)
+### [webssh](https://github.com/huashengdun/webssh)
 
 <span><strong><i class="fa fa-star">Star 2.7k</i> <i class="fa fa-eye">Watch 74</i> <i class="fa fa-code-fork">Fork 687</i></strong>    </span>
 
@@ -208,11 +208,11 @@ A simple web application to be used as an ssh client to connect to your ssh serv
 <p align="center"><img src='https://github.com/VorgContract/VorgMagazine/blob/master/assets/No.1/terminal.png?raw=true' style="max-width:80%; max-height=80%;"></img></p>
 
 [Back to Top](#Contact)
-<br>
+<br><br>
 
 
 
-## [django-debug-toolbar](https://github.com/jazzband/django-debug-toolbar)
+### [django-debug-toolbar](https://github.com/jazzband/django-debug-toolbar)
 
 <span><strong><i class="fa fa-star">Star 6.8k</i> <i class="fa fa-eye">Watch 104</i> <i class="fa fa-code-fork">Fork 968</i></strong>    </span>
 
@@ -261,11 +261,11 @@ INTERNAL_IPS = [
 <p align="center"><img src='https://github.com/VorgContract/VorgMagazine/blob/master/assets/No.1/django-debug-toolbar.png?raw=true' style="max-width:80%; max-height=80%;"></img></p>
 
 [Back to Top](#Contact)
-<br>
+<br><br>
 
 
 
-## [howdy](https://github.com/boltgolt/howdy)
+### [howdy](https://github.com/boltgolt/howdy)
 
 <span><strong><i class="fa fa-star">Star 3.4k</i> <i class="fa fa-eye">Watch 57</i> <i class="fa fa-code-fork">Fork 204</i></strong>    </span>
 
@@ -274,11 +274,11 @@ Howdy provides Windows Hello™ style authentication for Linux. Use your built-i
 <p align="center"><img src='https://github.com/VorgContract/VorgMagazine/blob/master/assets/No.1/howdy.gif?raw=true' style="max-width:80%; max-height=80%;"></img></p>
 
 [Back to Top](#Contact)
-<br>
+<br><br>
 
 
 
-## [fl_chart](https://github.com/imaNNeoFighT/fl_chart)
+### [fl_chart](https://github.com/imaNNeoFighT/fl_chart)
 
 <span><strong><i class="fa fa-star">Star 4.1k</i> <i class="fa fa-eye">Watch 56</i> <i class="fa fa-code-fork">Fork 1k</i></strong>    </span>
 
@@ -287,7 +287,7 @@ A powerful Flutter chart library, currently supporting Line Chart, Bar Chart, Pi
 <p align="center"><img src='https://github.com/VorgContract/VorgMagazine/blob/master/assets/No.1/fl_chart.png?raw=true' style="max-width:80%; max-height=80%;"></img></p>
 
 [Back to Top](#Contact)
-<br>
+<br><br>
 
 
 
