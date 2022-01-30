@@ -1,4 +1,12 @@
-<h1 align="left"><img src="https://avatars.githubusercontent.com/u/95163760?v=4" style="width:6%;"></img>VORG Open Source Magazine No. 1</h1>
+# <img src="https://avatars.githubusercontent.com/u/95163760?v=4" style="width:6%;"></img>VORG Open Source Magazine No. 1
+
+
+
+## Contact
+
+Official Twitter: [VORGDAO](https://twitter.com/VORGDAO).
+
+
 
 ## [AnimeGANv2](https://github.com/TachibanaYoshino/AnimeGANv2)
 
@@ -10,6 +18,8 @@ The improved version of AnimeGAN. Landscape photos/videos to anime.
 
 <p align="center"><img src='https://github.com/VorgContract/VorgMagazine/blob/master/assets/No.1/AnimeGANv2.gif?raw=true' style="max-width:80%; max-height=80%;"></img></p>
 
+[Back to Top](#Contact)
+
 
 
 ## [wavefunctioncollapse](https://github.com/marian42/wavefunctioncollapse)
@@ -19,6 +29,8 @@ The improved version of AnimeGAN. Landscape photos/videos to anime.
 An infinite, procedurally generated city, assembled out of blocks using the Wave Function Collapse algorithm with backtracking. There are houses, stairs, trees, and passages connecting houses in the city. You can move, jump, and fly freely in the city, but no matter how you move, you can't reach the end, because the city will extend infinitely.
 
 <p align="center"><img src='https://github.com/VorgContract/VorgMagazine/blob/master/assets/No.1/wavefunctioncollapse.gif?raw=true' style="max-width:80%; max-height=80%;"></img></p>
+
+[Back to Top](#Contact)
 
 
 
@@ -37,6 +49,8 @@ Features you might be interested in:
 
 <p align="center"><img src='https://github.com/VorgContract/VorgMagazine/blob/master/assets/No.1/social-preview-1.png?raw=true' style="max-width:80%; max-height=80%;"></img></p>
 
+[Back to Top](#Contact)
+
 
 
 ## [colorfu](https://github.com/pearmini/colorfu)
@@ -49,6 +63,8 @@ ColorFu is where people can use words, colors, patterns and images to make uniqu
 
 <p align="center"><img src='https://github.com/VorgContract/VorgMagazine/blob/master/assets/No.1/colorfu.png?raw=true' style="max-width:80%; max-height=80%;"></img></p>
 
+[Back to Top](#Contact)
+
 
 
 ## [pm2](https://github.com/Unitech/pm2)
@@ -58,6 +74,8 @@ ColorFu is where people can use words, colors, patterns and images to make uniqu
 PM2 is a production process manager for Node.js applications with a built-in load balancer. It allows you to keep applications alive forever, to reload them without downtime and to facilitate common system admin tasks.
 
 <p align="center"><img src='https://github.com/VorgContract/VorgMagazine/blob/master/assets/No.1/pm2-ls-v2.png?raw=true' style="max-width:80%; max-height=80%;"></img></p>
+
+[Back to Top](#Contact)
 
 
 
@@ -78,6 +96,8 @@ PM2 is a production process manager for Node.js applications with a built-in loa
 
 <p align="center"><img src='https://github.com/VorgContract/VorgMagazine/blob/master/assets/No.1/croc.gif?raw=true' style="max-width:80%; max-height=80%;"></img></p>
 
+[Back to Top](#Contact)
+
 
 
 ## [csshake](https://github.com/elrumordelaluz/csshake)
@@ -87,6 +107,8 @@ PM2 is a production process manager for Node.js applications with a built-in loa
 CSS classes to move your DOM!
 
 <p align="center"><img src='https://github.com/VorgContract/VorgMagazine/blob/master/assets/No.1/csshake.gif?raw=true' style="max-width:80%; max-height=80%;"></img></p>
+
+[Back to Top](#Contact)
 
 
 
@@ -100,6 +122,8 @@ A PSP emulator for Android, Windows, Mac and Linux, written in C++.
 
 <p align="center"><img src='https://github.com/VorgContract/VorgMagazine/blob/master/assets/No.1/ppsspp.jpeg?raw=true' style="max-width:80%; max-height=80%;"></img></p>
 
+[Back to Top](#Contact)
+
 
 
 ## [leocad](https://github.com/leozide/leocad)
@@ -110,6 +134,8 @@ LeoCAD is a CAD program for creating virtual LEGO(R) models. It's available for 
 
 <p align="center"><img src='https://github.com/VorgContract/VorgMagazine/blob/master/assets/No.1/voyager.png?raw=true' style="max-width:80%; max-height=80%;"></img></p>
 
+[Back to Top](#Contact)
+
 
 
 ## [PyWebIO](https://github.com/pywebio/PyWebIO)
@@ -119,6 +145,8 @@ LeoCAD is a CAD program for creating virtual LEGO(R) models. It's available for 
 PyWebIO provides a series of imperative functions to obtain user input and output on the browser, turning the browser into a "rich text terminal", and can be used to build simple web applications or browser-based GUI applications without the need to have knowledge of HTML and JS. PyWebIO can also be easily integrated into existing Web services. PyWebIO is very suitable for quickly building applications that do not require complex UI.
 
 <p align="center"><img src='https://github.com/VorgContract/VorgMagazine/blob/master/assets/No.1/output_demo.gif?raw=true' style="max-width:80%; max-height=80%;"></img></p>
+
+[Back to Top](#Contact)
 
 
 
@@ -153,6 +181,8 @@ False
 >>>
 ```
 
+[Back to Top](#Contact)
+
 
 
 ## [webssh](https://github.com/huashengdun/webssh)
@@ -164,6 +194,8 @@ A simple web application to be used as an ssh client to connect to your ssh serv
 <p align="center"><img src='https://github.com/VorgContract/VorgMagazine/blob/master/assets/No.1/login.png?raw=true' style="max-width:80%; max-height=80%;"></img></p>
 
 <p align="center"><img src='https://github.com/VorgContract/VorgMagazine/blob/master/assets/No.1/terminal.png?raw=true' style="max-width:80%; max-height=80%;"></img></p>
+
+[Back to Top](#Contact)
 
 
 
@@ -215,6 +247,8 @@ INTERNAL_IPS = [
 
 <p align="center"><img src='https://github.com/VorgContract/VorgMagazine/blob/master/assets/No.1/django-debug-toolbar.png?raw=true' style="max-width:80%; max-height=80%;"></img></p>
 
+[Back to Top](#Contact)
+
 
 
 ## [howdy](https://github.com/boltgolt/howdy)
@@ -225,6 +259,8 @@ Howdy provides Windows Hello™ style authentication for Linux. Use your built-i
 
 <p align="center"><img src='https://github.com/VorgContract/VorgMagazine/blob/master/assets/No.1/howdy.gif?raw=true' style="max-width:80%; max-height=80%;"></img></p>
 
+[Back to Top](#Contact)
+
 
 
 ## [fl_chart](https://github.com/imaNNeoFighT/fl_chart)
@@ -234,6 +270,8 @@ Howdy provides Windows Hello™ style authentication for Linux. Use your built-i
 A powerful Flutter chart library, currently supporting Line Chart, Bar Chart, Pie Chart, Scatter Chart and Radar Chart.
 
 <p align="center"><img src='https://github.com/VorgContract/VorgMagazine/blob/master/assets/No.1/fl_chart.png?raw=true' style="max-width:80%; max-height=80%;"></img></p>
+
+[Back to Top](#Contact)
 
 
 
