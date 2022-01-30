@@ -2,7 +2,7 @@
 
 
 
-## Contact
+<h2 id="Contact">Contact</h2>
 
 Official Twitter: [VORGDAO](https://twitter.com/VORGDAO).
 
