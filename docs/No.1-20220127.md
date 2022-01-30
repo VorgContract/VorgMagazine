@@ -5,6 +5,7 @@
 <h2 id="Contact">Contact</h2>
 
 Official Twitter: [VORGDAO](https://twitter.com/VORGDAO).
+<br>
 
 
 
@@ -19,6 +20,7 @@ The improved version of AnimeGAN. Landscape photos/videos to anime.
 <p align="center"><img src='https://github.com/VorgContract/VorgMagazine/blob/master/assets/No.1/AnimeGANv2.gif?raw=true' style="max-width:80%; max-height=80%;"></img></p>
 
 [Back to Top](#Contact)
+<br>
 
 
 
@@ -31,6 +33,7 @@ An infinite, procedurally generated city, assembled out of blocks using the Wave
 <p align="center"><img src='https://github.com/VorgContract/VorgMagazine/blob/master/assets/No.1/wavefunctioncollapse.gif?raw=true' style="max-width:80%; max-height=80%;"></img></p>
 
 [Back to Top](#Contact)
+<br>
 
 
 
@@ -50,6 +53,7 @@ Features you might be interested in:
 <p align="center"><img src='https://github.com/VorgContract/VorgMagazine/blob/master/assets/No.1/social-preview-1.png?raw=true' style="max-width:80%; max-height=80%;"></img></p>
 
 [Back to Top](#Contact)
+<br>
 
 
 
@@ -64,6 +68,7 @@ ColorFu is where people can use words, colors, patterns and images to make uniqu
 <p align="center"><img src='https://github.com/VorgContract/VorgMagazine/blob/master/assets/No.1/colorfu.png?raw=true' style="max-width:80%; max-height=80%;"></img></p>
 
 [Back to Top](#Contact)
+<br>
 
 
 
@@ -76,6 +81,7 @@ PM2 is a production process manager for Node.js applications with a built-in loa
 <p align="center"><img src='https://github.com/VorgContract/VorgMagazine/blob/master/assets/No.1/pm2-ls-v2.png?raw=true' style="max-width:80%; max-height=80%;"></img></p>
 
 [Back to Top](#Contact)
+<br>
 
 
 
@@ -97,6 +103,7 @@ PM2 is a production process manager for Node.js applications with a built-in loa
 <p align="center"><img src='https://github.com/VorgContract/VorgMagazine/blob/master/assets/No.1/croc.gif?raw=true' style="max-width:80%; max-height=80%;"></img></p>
 
 [Back to Top](#Contact)
+<br>
 
 
 
@@ -109,6 +116,7 @@ CSS classes to move your DOM!
 <p align="center"><img src='https://github.com/VorgContract/VorgMagazine/blob/master/assets/No.1/csshake.gif?raw=true' style="max-width:80%; max-height=80%;"></img></p>
 
 [Back to Top](#Contact)
+<br>
 
 
 
@@ -123,6 +131,7 @@ A PSP emulator for Android, Windows, Mac and Linux, written in C++.
 <p align="center"><img src='https://github.com/VorgContract/VorgMagazine/blob/master/assets/No.1/ppsspp.jpeg?raw=true' style="max-width:80%; max-height=80%;"></img></p>
 
 [Back to Top](#Contact)
+<br>
 
 
 
@@ -135,6 +144,7 @@ LeoCAD is a CAD program for creating virtual LEGO(R) models. It's available for 
 <p align="center"><img src='https://github.com/VorgContract/VorgMagazine/blob/master/assets/No.1/voyager.png?raw=true' style="max-width:80%; max-height=80%;"></img></p>
 
 [Back to Top](#Contact)
+<br>
 
 
 
@@ -147,6 +157,7 @@ PyWebIO provides a series of imperative functions to obtain user input and outpu
 <p align="center"><img src='https://github.com/VorgContract/VorgMagazine/blob/master/assets/No.1/output_demo.gif?raw=true' style="max-width:80%; max-height=80%;"></img></p>
 
 [Back to Top](#Contact)
+<br>
 
 
 
@@ -182,6 +193,7 @@ False
 ```
 
 [Back to Top](#Contact)
+<br>
 
 
 
@@ -196,6 +208,7 @@ A simple web application to be used as an ssh client to connect to your ssh serv
 <p align="center"><img src='https://github.com/VorgContract/VorgMagazine/blob/master/assets/No.1/terminal.png?raw=true' style="max-width:80%; max-height=80%;"></img></p>
 
 [Back to Top](#Contact)
+<br>
 
 
 
@@ -248,6 +261,7 @@ INTERNAL_IPS = [
 <p align="center"><img src='https://github.com/VorgContract/VorgMagazine/blob/master/assets/No.1/django-debug-toolbar.png?raw=true' style="max-width:80%; max-height=80%;"></img></p>
 
 [Back to Top](#Contact)
+<br>
 
 
 
@@ -260,6 +274,7 @@ Howdy provides Windows Hello™ style authentication for Linux. Use your built-i
 <p align="center"><img src='https://github.com/VorgContract/VorgMagazine/blob/master/assets/No.1/howdy.gif?raw=true' style="max-width:80%; max-height=80%;"></img></p>
 
 [Back to Top](#Contact)
+<br>
 
 
 
@@ -272,6 +287,7 @@ A powerful Flutter chart library, currently supporting Line Chart, Bar Chart, Pi
 <p align="center"><img src='https://github.com/VorgContract/VorgMagazine/blob/master/assets/No.1/fl_chart.png?raw=true' style="max-width:80%; max-height=80%;"></img></p>
 
 [Back to Top](#Contact)
+<br>
 
 
 
