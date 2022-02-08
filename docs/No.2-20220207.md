@@ -65,13 +65,13 @@ It supports
 - a macro system,
 - and a copying garbage collector.
 
-Example
-```lisp
-(println 3)  ; prints "3"
-(+ 1 2 3)  ; -> 6
-(define a (+ 1 2))
-(+ a a)  ; -> 6
-```
+Example<br>
+<code>
+(println 3)  ; prints "3"<br>
+(+ 1 2 3)  ; -> 6<br>
+(define a (+ 1 2))<br>
+(+ a a)  ; -> 6<br>
+</code>
 
 [Back to Top](#Contact)
 <br><br>
@@ -114,22 +114,22 @@ Features
 - [Material market](https://arco.design/material/) provides a one-stop solution for materials management.
 - All components are written in TypeScript so it's type friendly.
 
-```typescript
-import React from 'react';
-import ReactDOM from 'react-dom';
-import { Button } from '@arco-design/web-react';
-import '@arco-design/web-react/dist/css/arco.css';
-
-function App() {
-  return (
+<code>
+import React from 'react';<br>
+import ReactDOM from 'react-dom';<br>
+import { Button } from '@arco-design/web-react';<br>
+import '@arco-design/web-react/dist/css/arco.css';<br>
+<br>
+function App() {<br>
+  return (<br>
     <Button type='secondary'>
       Hello World
     </Button>
-  );
-}
-
-ReactDOM.render(<App />, document.getElementById('app'));
-```
+  );<br>
+}<br>
+<br>
+ReactDOM.render(<App />, document.getElementById('app'));<br>
+</code>
 <p align="center"><img src='https://github.com/VorgContract/VorgMagazine/blob/master/assets/No.2/arco-design.png?raw=true' style="max-width:80%; max-height=80%;"></img></p>
 
 [Back to Top](#Contact)
@@ -167,28 +167,28 @@ Prisma is a next-generation ORM that consists of these tools:
 
 Prisma Client can be used in any Node.js or TypeScript backend application (including serverless applications and microservices). This can be a [REST API](https://www.prisma.io/docs/understand-prisma/prisma-in-your-stack/rest), a [GraphQL API](https://www.prisma.io/docs/understand-prisma/prisma-in-your-stack/graphql) a gRPC API, or anything else that needs a database.
 
-```javascript
-import { PrismaClient } from '@prisma/client'
-
-const prisma = new PrismaClient()
-
-// A `main` function so that you can use async/await
-async function main() {
-  const allUsers = await prisma.user.findMany({
+<code>
+import { PrismaClient } from '@prisma/client'<br>
+<br>
+const prisma = new PrismaClient()<br>
+<br>
+// A `main` function so that you can use async/await<br>
+async function main() {<br>
+  const allUsers = await prisma.user.findMany({<br>
     include: { posts: true },
-  })
-  // use `console.dir` to print nested objects
-  console.dir(allUsers, { depth: null })
-}
-
-main()
-  .catch((e) => {
+  })<br>
+  // use `console.dir` to print nested objects<br>
+  console.dir(allUsers, { depth: null })<br>
+}<br>
+<br>
+main()<br>
+  .catch((e) => {<br>
     throw e
-  })
-  .finally(async () => {
+  })<br>
+  .finally(async () => {<br>
     await prisma.$disconnect()
-  })
-```
+  })<br>
+</code>
 
 <p align="center"><img src='https://github.com/VorgContract/VorgMagazine/blob/master/assets/No.2/prisma.png?raw=true' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -203,25 +203,25 @@ main()
 
 Ridiculously Uncomplicated macOS Python Statusbar apps.
 
-```python
-import rumps
-
-class AwesomeStatusBarApp(rumps.App):
+<code>
+import rumps<br>
+<br>
+class AwesomeStatusBarApp(rumps.App):<br>
     @rumps.clicked("Preferences")
     def prefs(self, _):
         rumps.alert("jk! no preferences available!")
-
+<br>
     @rumps.clicked("Silly button")
     def onoff(self, sender):
         sender.state = not sender.state
-
+<br>
     @rumps.clicked("Say hi")
     def sayhi(self, _):
         rumps.notification("Awesome title", "amazing subtitle", "hi!!1")
-
-if __name__ == "__main__":
+<br>
+if __name__ == "__main__":<br>
     AwesomeStatusBarApp("Awesome App").run()
-```
+</code>
 
 <p align="center"><img src='https://github.com/VorgContract/VorgMagazine/blob/master/assets/No.2/rumps.png?raw=true' style="max-width:80%; max-height=80%;"></img></p>
 
