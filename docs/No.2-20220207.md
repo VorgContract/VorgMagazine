@@ -311,18 +311,19 @@ Simula is officially compatible with SteamVR headsets equipped with Linux driver
 KOReader is a document viewer primarily aimed at e-ink readers.
 
 Features
+
 - portable: runs on embedded devices (Cervantes, Kindle, Kobo, PocketBook, reMarkable), Android and Linux computers. Developers can run a KOReader emulator in Linux and MacOS.
-- 
+
 - multi-format documents: supports fixed page formats (PDF, DjVu, CBT, CBZ) and reflowable e-book formats (EPUB, FB2, Mobi, DOC, CHM, TXT). Scanned PDF/DjVu documents can also be reflowed with the built-in K2pdfopt library.
-- 
+
 - full-featured reading: multi-lingual user interface with a highly customizable reader view and many typesetting options. You can set arbitrary page margins, override line spacing and choose external fonts and styles. It has multi-lingual hyphenation dictionaries bundled into the application.
-- 
+
 - integrated with calibre (search metadata, receive ebooks wirelessly, browse library via OPDS), Wallabag, Wikipedia, Google Translate and other content providers.
-- 
+
 - optimized for e-ink devices: custom UI without animation, with paginated menus, adjustable text contrast, and easy zoom to fit content or page in paged media.
-- 
+
 - extensible: via plugins
-- 
+
 - fast: on some older devices, it has been measured to have less than half the page-turn delay as the built in reading software.
 
 - and much more: look up words with StarDict dictionaries / Wikipedia, add your own online OPDS catalogs and RSS feeds, over-the-air software updates, an FTP client, an SSH server, …
