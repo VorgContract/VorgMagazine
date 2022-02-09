@@ -35,10 +35,15 @@ Live reload for Go apps.
 NOTE: This tool has nothing to do with hot-deploy for production.
 
 Features
+
 - Colorful log output
+
 - Customize build or binary command
+
 - Support excluding subdirectories
+
 - Allow watching new directories after Air started
+
 - Better building process
 
 <p align="center"><img src='https://github.com/VorgContract/VorgMagazine/blob/master/assets/No.2/air.png?raw=true' style="max-width:80%; max-height=80%;"></img></p>
@@ -55,14 +60,23 @@ Features
 A readable lisp in less than 1k lines of C.
 
 It supports
+
 - integers, symbols, cons cells,
+
 - global variables,
+
 - lexically-scoped local variables,
+
 - closures,
+
 - if conditional,
+
 - primitive functions, such as +, =, <, or list,
+
 - user-defined functions,
+
 - a macro system,
+
 - and a copying garbage collector.
 
 Example<br>
@@ -87,12 +101,19 @@ Termux is an Android terminal application and Linux environment.
 Note that this repository is for the app itself (the user interface and the terminal emulation).
 
 Features
+
 - Enjoy the bash and zsh shells.
+
 - Edit files with nano and vim.
+
 - Access servers over ssh.
+
 - Compile code with gcc and clang.
+
 - Use the python console as a pocket calculator.
+
 - Check out projects with git and subversion.
+
 - Run text-based games with frotz.
 
 <p align="center"><img src='https://github.com/VorgContract/VorgMagazine/blob/master/assets/No.2/termux-app.jpeg?raw=true' style="max-width:80%; max-height=80%;"></img></p>
@@ -109,9 +130,13 @@ Features
 A comprehensive React UI components library based on the [Arco Design](https://arco.design/) system.
 
 Features
+
 - With more than 60 crafted components that you can use out of the box.
+
 - Extensive design tokens can be customized to build your own theme.
+
 - [Material market](https://arco.design/material/) provides a one-stop solution for materials management.
+
 - All components are written in TypeScript so it's type friendly.
 
 <code>
@@ -144,8 +169,11 @@ ReactDOM.render(<App />, document.getElementById('app'));<br>
 A note-taking chrome extension: taking notes on the web with their context.
 
 Features
+
 - 📝 Notebook, reviewing notes on a book, while jumping back to the context for details.
+
 - 🏷️ Tagbook, manage the notes neatly with a handy tag system.
+
 - ⌨️ Rich text editor: embed quill as the rich text editor.
 
 <p align="center"><img src='https://github.com/VorgContract/VorgMagazine/blob/master/assets/No.2/context-note.gif?raw=true' style="max-width:80%; max-height=80%;"></img></p>
@@ -162,7 +190,9 @@ Features
 Prisma is a next-generation ORM that consists of these tools:
 
 - [Prisma Client](https://www.prisma.io/docs/concepts/components/prisma-client): Auto-generated and type-safe query builder for Node.js & TypeScript
+
 - [Prisma Migrate](https://www.prisma.io/docs/concepts/components/prisma-migrate): Declarative data modeling & migration system
+
 - [Prisma Studio](https://github.com/prisma/studio): GUI to view and edit data in your database
 
 Prisma Client can be used in any Node.js or TypeScript backend application (including serverless applications and microservices). This can be a [REST API](https://www.prisma.io/docs/understand-prisma/prisma-in-your-stack/rest), a [GraphQL API](https://www.prisma.io/docs/understand-prisma/prisma-in-your-stack/graphql) a gRPC API, or anything else that needs a database.
@@ -269,17 +299,29 @@ An image can be built out of circles, lines, waves, cross stitches, legos, minec
 Tabby (formerly Terminus) is a highly configurable terminal emulator, SSH and serial client for Windows, macOS and Linux
 
 - Integrated SSH and Telnet client and connection manager
+
 - Integrated serial terminal
+
 - Theming and color schemes
+
 - Fully configurable shortcuts and multi-chord shortcuts
+
 - Split panes
+
 - Remembers your tabs
+
 - PowerShell (and PS Core), WSL, Git-Bash, Cygwin, MSYS2, Cmder and CMD support
+
 - Direct file transfer from/to SSH sessions via Zmodem
+
 - Full Unicode support including double-width characters
+
 - Doesn't choke on fast-flowing outputs
+
 - Proper shell experience on Windows including tab completion (via Clink)
+
 - Integrated encrypted container for SSH secrets and configuration
+
 - SSH, SFTP and Telnet client available as a web app (also self-hosted).
 
 <p align="center"><img src='https://github.com/VorgContract/VorgMagazine/blob/master/assets/No.2/tabby.png?raw=true' style="max-width:80%; max-height=80%;"></img></p>
@@ -342,9 +384,13 @@ Features
 Cutter is a free and open-source reverse engineering platform powered by [rizin](https://github.com/rizinorg/rizin). It aims at being an advanced and customizable reverse engineering platform while keeping the user experience in mind. Cutter is created by reverse engineers for reverse engineers.
 
 - Supports multiple languages and themes
+
 - Binary search
+
 - Hex editor
+
 - Python scripts and plugins
+
 - Support Linux, macOS, Windows
 
 <p align="center"><img src='https://github.com/VorgContract/VorgMagazine/blob/master/assets/No.2/cutter.png?raw=true' style="max-width:80%; max-height=80%;"></img></p>
